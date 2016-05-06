@@ -1,0 +1,19 @@
+{
+  "name": "katas",
+  "version": "0.0.1",
+  "description": "Code practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monkeyFeathers/katas.git"
+  },
+  "author": "Javier Quiroz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monkeyFeathers/katas/issues"
+  },
+  "homepage": "https://github.com/monkeyFeathers/katas#readme"
+}
